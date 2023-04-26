@@ -1,4 +1,4 @@
-# Pantheon Decoupled Kit Next WordPress Starter 1
+# Pantheon Decoupled Kit Next WordPress Starter 16
 
 ## Getting Started
 
